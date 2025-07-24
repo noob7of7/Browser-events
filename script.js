@@ -45,6 +45,6 @@ list.addEventListener('click',(event) => {
 //zd7
 let myInput2 = document.querySelector('#keyboardInput');
 
-myInput.addEventListener('keydown',(event) => {
+myInput2.addEventListener('keydown',(event) => {
     console.log(event.keyCode);
 });
